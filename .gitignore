@@ -2,3 +2,8 @@ mylogs.txt
 mylogs.log
 *.log 
 //  same line can't be use for long 
+logs/this12.txt
+ ---logs/ 
+// this was to ignore the folder 
+logs/*.txt
+logs/*.html

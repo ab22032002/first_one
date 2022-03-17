@@ -82,3 +82,8 @@ adding the files into .gitignore files will help
   to ignore all the log files presesnt in the directory 
 folder_name/
 to ignore the content the folder
+
+
+///// issue faced while treating .log 
+when we write git log we encounter the problem it won't get quit press 
+q to do the QUIT with it 
