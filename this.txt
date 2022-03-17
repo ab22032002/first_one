@@ -44,3 +44,16 @@ clear to clear the terminal
 /// git checkout to reatin the file what it was after the first commit 
 git checkout  file _name.extension //
 // worked and can be usefull to reatin the information at the time of the last commit 
+git checkout -f
+ // this will descard the latest changes with the last commit
+ git log 
+ // aapne kya kya commit kiya hai ?
+ // git log -p  -no-of-latest commits you want to see 
+    git log -p  -3  .. here we want to see the last three commits 
+ // git diff 
+ working tree v/s staging area 
+
+ this is the difference 
+ 
+  
+gfd
