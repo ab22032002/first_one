@@ -99,3 +99,7 @@ git branch branch_name + enter
 **********switching ***************
 git checkout branch_name 
 switching is easy using this 
+**************MERGING *******************
+1.come to the master 
+2. git merge brach_NAME 
+3. must check if added or not using the git status cmd
