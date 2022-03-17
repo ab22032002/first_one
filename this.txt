@@ -57,4 +57,9 @@ git checkout -f
    
    // directly commiting the files 
    git commit -a -m "skipped staging area / this is just a message " 
-   
+     git rm 
+   //to delete the file 
+ // to unstage the file 
+ git rm --cached creating_new.html 
+ // after this operation  creating_new.html will be shown in the untracked files 
+ 
