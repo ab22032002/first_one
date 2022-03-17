@@ -106,4 +106,7 @@ we can make as many as branches we want
 2. git merge brach_NAME 
 3. must check if added or not using the git status cmd
 *********************************************
+creating the new branch and switching to it 
+  git checkout -b branch-name 
+
 
