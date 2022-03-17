@@ -62,4 +62,11 @@ git checkout -f
  // to unstage the file 
  git rm --cached creating_new.html 
  // after this operation  creating_new.html will be shown in the untracked files 
- 
+ git rm to remove the files 
+  
+  // git status -s 
+     short summary of ststus 
+     to what did you did in the last command you did 
+     M formodified 
+     MM green and then red modified + unsaved files are available 
+
