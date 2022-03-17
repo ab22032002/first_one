@@ -87,3 +87,12 @@ to ignore the content the folder
 ///// issue faced while treating .log 
 when we write git log we encounter the problem it won't get quit press 
 q to do the QUIT with it 
+
+
+
+
+/*********************************BRANCHING********************************************/
+making the copy via branching actually we make a copy of the master 
+and perform the relevant tasks 
+to create a new branch 
+git branch branch_name + enter 
