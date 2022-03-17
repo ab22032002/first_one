@@ -52,8 +52,9 @@ git checkout -f
     git log -p  -3  .. here we want to see the last three commits 
  // git diff 
  working tree v/s staging area 
-
- this is the difference 
- 
-  
-gfd
+  /// to find the difference between the staged area and commit is given by the 
+  git diff --staged 
+   
+   // directly commiting the files 
+   git commit -a -m "skipped staging area / this is just a message " 
+   
