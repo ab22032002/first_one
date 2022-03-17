@@ -24,3 +24,7 @@ steps
 then isert the message at upside 
 2: :wq to quit the vim editor 
 then tadaaa you're back to the git bash 
+  
+
+  // like the linux system 
+  touch file_name.extension to create the new file in the current working tree 
