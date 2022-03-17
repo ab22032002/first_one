@@ -69,4 +69,16 @@ git checkout -f
      to what did you did in the last command you did 
      M formodified 
      MM green and then red modified + unsaved files are available 
-
+     shows nothing if  the working tree is clean 
+ // creating the .gitignore file using the touch .gitignore 
+ only here it can be made 
+adding the files into .gitignore files will help 
+ *log to ignore all the .log files 
+ to enter into the folder 
+ folder_name/file_name
+ /logs \showing that there is a modification inside the logs
+  file 
+  *.log
+  to ignore all the log files presesnt in the directory 
+folder_name/
+to ignore the content the folder
