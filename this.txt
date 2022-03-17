@@ -95,4 +95,7 @@ q to do the QUIT with it
 making the copy via branching actually we make a copy of the master 
 and perform the relevant tasks 
 to create a new branch 
-git branch branch_name + enter 
+git branch branch_name + enter
+**********switching ***************
+git checkout branch_name 
+switching is easy using this 
