@@ -28,3 +28,19 @@ then tadaaa you're back to the git bash
 
   // like the linux system 
   touch file_name.extension to create the new file in the current working tree 
+   
+   // ADDING THE FILES IN STAGING AREA 
+   ADDING IT TO THE POSITON
+    git add --a 
+    or 
+    git add -A 
+    to ADD all the files in the staging area
+// modified + staging area 
+git add -A 
+git commit -m" this is the message we wrote at the aadditional area of vim editor "
+clear to clear the terminal 
+ // git checkout 
+ lets kisi ne kachara kr diya hai 
+/// git checkout to reatin the file what it was after the first commit 
+git checkout  file _name.extension //
+// worked and can be usefull to reatin the information at the time of the last commit 
