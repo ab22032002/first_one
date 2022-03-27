@@ -7,3 +7,4 @@ logs/this12.txt
 // this was to ignore the folder 
 logs/*.txt
 logs/*.html
+.html
