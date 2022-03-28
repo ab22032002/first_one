@@ -7,4 +7,5 @@ logs/this12.txt
 // this was to ignore the folder 
 logs/*.txt
 logs/*.html
-*.html
+creating_new.html
+index.html 
