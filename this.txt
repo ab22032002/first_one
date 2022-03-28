@@ -135,3 +135,11 @@ adding remote
 git remote add origin (here its the folder just as the programmers did ) https://github/ab220302002/repo_name.git 
 git remote add origin https://github/ab22032002/repo_name.git 
 this will make the  pathway to that particular repository that must be tagetted from here 
+
+/************** the problem with gitignore i have faced********************/
+If you want to ignore a file that you've committed in the past, you'll need to delete the file from your repository and then add a . 
+gitignore rule for it. Using 
+the --cached option with git rm means that the file will be deleted from your repository,
+ but will remain in your working directory as an ignored file.
+that's why i was facing the problem as i tried the adding the files into gitignore after commiting them all so it cost me"NOT IGNORED"
+so for doing it we have to take the listed steps in the above sstm .
