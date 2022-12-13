@@ -146,3 +146,5 @@ so for doing it we have to take the listed steps in the above sstm .
 
 /*******************to delete the remote folder *****************************************************/
 git remote remove remote_name
+/***************************************removing the .git file inorder to delete the folder******************************************/
+rm -fr .git
